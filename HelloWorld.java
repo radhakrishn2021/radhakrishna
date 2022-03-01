@@ -10,7 +10,7 @@ public class HelloWorld{
                 int d=50;
 =======
 	        int d=50;
->>>>>>> 95de405f99727489b132a292424be3d6b11e7da7
+
 	system.out.println(a+b+c)
 
 }
