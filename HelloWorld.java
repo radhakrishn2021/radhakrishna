@@ -5,5 +5,6 @@ public class HelloWorld{
 		System.out.println("Hello world");
 		int a=10;
                 int b=20;
+                int c=40;
 
 }
